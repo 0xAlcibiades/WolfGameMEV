@@ -1,0 +1,1 @@
+[{"inputs":[],"stateMutability":"payable","type":"constructor"},{"stateMutability":"payable","type":"fallback"},{"inputs":[],"name":"roll_alpha","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[],"name":"view_alpha","outputs":[],"stateMutability":"view","type":"function"},{"stateMutability":"payable","type":"receive"}]
